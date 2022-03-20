@@ -1,4 +1,12 @@
-### Hi there 👋
+Мой стек технологий:
+* HTML
+* CSS
+* JavaScript
+* React
+* Redux
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nebunohu&hide=issues)](https://github.com/nebunohu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nebunohu&layout=compact&hide=c)](https://github.com/nebunohu)
 
 <!--
 **nebunohu/nebunohu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
