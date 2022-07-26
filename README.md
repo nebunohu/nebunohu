@@ -9,8 +9,10 @@ Telegram: @bnv11<br>
 * HTML
 * CSS
 * JavaScript
+* TypeScript
 * React
 * Redux
+* Jest
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nebunohu&hide=issues)](https://github.com/nebunohu)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nebunohu&layout=compact&hide=c)](https://github.com/nebunohu)
